@@ -6,6 +6,8 @@ This Jupyter Notebook explores techniques for handling imbalanced datasets in cr
 ## Dataset  
 The dataset used in this notebook contains anonymized transaction data, with features representing different transaction attributes. The target variable indicates whether a transaction is fraudulent (`1`) or legitimate (`0`).  
 
+Dataset URL - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ## Key Topics Covered  
 ### 1. Exploratory Data Analysis (EDA)  
 - Understanding the distribution of fraud vs. non-fraud transactions  
